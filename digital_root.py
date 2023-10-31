@@ -24,3 +24,6 @@ def digital_root(n):
     a = digital_root(493193)
 
     print(a)
+
+    lista =[1, 2, 3 ,4, 5]
+    x = lambda(x : x*  2)
